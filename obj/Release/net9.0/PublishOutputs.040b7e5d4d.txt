@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\learningapp.exe
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\appsettings.Development.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\appsettings.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\learningapp.dll
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\learningapp.deps.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\bin\Publish\learningapp.pdb
