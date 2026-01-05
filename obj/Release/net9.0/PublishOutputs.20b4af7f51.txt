@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\learningapp.exe
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\appsettings.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\learningapp.dll
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\learningapp.deps.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\learningapp.runtimeconfig.json
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\bin\Release\net9.0\publish\learningapp.pdb

@@ -94,3 +94,4 @@ C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningap
 C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\obj\Release\net9.0\learningapp.pdb
 C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\obj\Release\net9.0\learningapp.genruntimeconfig.cache
 C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\obj\Release\net9.0\ref\learningapp.dll
+C:\Users\HP\Desktop\NileshJobHUnt\Azure Cloud\AZ204\applicationWebApp\learningapp\obj\Release\net9.0\learningapp.sourcelink.json
